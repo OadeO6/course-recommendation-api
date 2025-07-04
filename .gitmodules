@@ -1,0 +1,6 @@
+[submodule "course-aggregator"]
+	path = course-aggregator
+	url = https://github.com/OadeO6/course-aggregator.git
+[submodule "course-recommender-api"]
+	path = course-recommender-api
+	url = https://github.com/OadeO6/course-recommender-api.git
